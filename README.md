@@ -13,7 +13,9 @@ I'm a recent grad on the lookout for exciting job opportunities.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/jaisuriya97" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/jaisuriya97" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+    <a href="https://www.linkedin.com/in/jaisuriya-p-k-7156a2236/" target="_blank" rel="noreferrer"><img src="https://t3.ftcdn.net/jpg/04/37/88/86/360_F_437888641_XrjjuAwATXWNx10jQurCDaXXJnobhDi4.jpg" width="30" height="32" alt="Linkedin" /></a>
+</p>
 
 ### Skills
 
