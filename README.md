@@ -4,7 +4,7 @@ Hi 👋 My name is Jaisuriya
 Software Engineer
 -----------------
 
-I'm a recent grad on the lookout for exciting job opportunities.
+Junior Software Developer | Recent Graduate
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [jaisuriya2611@gmail.com](mailto:jaisuriya2611@gmail.com)
