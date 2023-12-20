@@ -1,4 +1,4 @@
-Hi 👋 My name is Jaisuriya
+Hi 👋 I'm Jaisuriya
 ==========================
 
 Software Engineer
