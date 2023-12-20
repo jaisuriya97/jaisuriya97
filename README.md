@@ -9,9 +9,7 @@ Junior Software Developer | Recent Graduate
 * 🌍  I'm based in India
 * ✉️  You can contact me at [jaisuriya2611@gmail.com](mailto:jaisuriya2611@gmail.com)
 * 🧠  I'm learning Full stack Development
-
-### [Resume](https://github.com/jaisuriya97/jaisuriya97/files/13721485/JaisuriyaPK.pdf)
-
+### [📃Resume](https://github.com/jaisuriya97/jaisuriya97/files/13721485/JaisuriyaPK.pdf)
 
 ### Socials
 
