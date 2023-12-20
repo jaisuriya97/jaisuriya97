@@ -8,7 +8,7 @@ Junior Software Developer | Recent Graduate
 
 * 🌍  I'm based in India
 * 🧠  learning Full stack Development
-* 🧑‍🎓  Final Year student @ Rajalakshmi Engineering College
+* 🧑‍🎓  Final Year student | Rajalakshmi Engineering College, Chennai
 ### [📃Resume](https://github.com/jaisuriya97/jaisuriya97/files/13721485/JaisuriyaPK.pdf)
 
 ### 🌐 Socials:
