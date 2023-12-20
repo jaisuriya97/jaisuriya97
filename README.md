@@ -10,8 +10,8 @@ I'm a recent grad on the lookout for exciting job opportunities.
 * ✉️  You can contact me at [jaisuriya2611@gmail.com](mailto:jaisuriya2611@gmail.com)
 * 🧠  I'm learning Full stack Development
 
-### Resume
-[Jaisuriya_092.pdf](https://github.com/jaisuriya97/jaisuriya97/files/13721483/Jaisuriya_092.pdf)
+### [Resume](https://github.com/jaisuriya97/jaisuriya97/files/13721485/JaisuriyaPK.pdf)
+
 
 ### Socials
 
