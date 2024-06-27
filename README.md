@@ -7,7 +7,8 @@ Software Engineer
 Junior Software Developer | Recent Graduate
 
 * 🧠  learning Full stack Development
-* 🧑‍🎓  Final Year student| Rajalakshmi Engineering College, Chennai
+* 🧑‍🎓  Alumni | Rajalakshmi Engineering College, Chennai
+* 👩🏻‍💻  Intern at Whirldata inc, Chennai
 ### [Resume📜](https://github.com/jaisuriya97/jaisuriya97/files/14325358/Jaisuriya.pdf)
 
 
