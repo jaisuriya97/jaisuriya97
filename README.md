@@ -1,31 +1,22 @@
-Hi 👋 I'm Jaisuriya
-==========================
-
-Software Engineer
------------------
-
-Junior Software Developer | Recent Graduate
-
-* 🧠  learning Full stack Development
-* 🧑‍🎓  Alumni | Rajalakshmi Engineering College, Chennai
-* 👩🏻‍💻  Intern at Whirldata inc, Chennai
-### [Resume📜](https://github.com/jaisuriya97/jaisuriya97/files/14325358/Jaisuriya.pdf)
-
-
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaisuriya-p-k-7156a2236/)
-
-### 🤙Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaisuriya2611@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jai_.suriya/)
-
-### Skills
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-
-### Badges
-<b>Language used</b>
-<p align="left"> 
-    <a href="https://github.com/jaisuriya97" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisuriya97&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-</p>
+<pre>
+<span style="color: #E95420; font-weight: bold;">            .-/+oossssoo+/-.               </span> <span style="color: #4EA94B; font-weight: bold;">jaisuriya</span>@<span style="color: #1572B6; font-weight: bold;">portfolio</span>
+<span style="color: #E95420; font-weight: bold;">        `:+ssssssssssssssssss+:`           </span> -------------------------
+<span style="color: #E95420; font-weight: bold;">      -+ssssssssssssssssssyyssss+-         </span> <span style="color: #E95420; font-weight: bold;">Name:</span> Jaisuriya Paranthaman
+<span style="color: #E95420; font-weight: bold;">    .ossssssssssssssssssdMMMNysssso.       </span> <span style="color: #E95420; font-weight: bold;">Working:</span> ASE @Toddle 
+<span style="color: #E95420; font-weight: bold;">   /ssssssssssshdmmNNmmyNMMMMhssssss/      </span> <span style="color: #E95420; font-weight: bold;">Education:</span> Rajalakshmi Engineering College [PO: 2024]
+<span style="color: #E95420; font-weight: bold;">  +ssssssssshmydMMMMMMMNddddyssssssss+     </span> <span style="color: #E95420; font-weight: bold;">Uptime:</span> Cloud Certified ☁️ (GCP ACE, AWS CCP)
+<span style="color: #E95420; font-weight: bold;"> /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    </span> <span style="color: #E95420; font-weight: bold;">Language:</span> Javascript, Typescript, Java, Python, HTML & CSS.
+<span style="color: #E95420; font-weight: bold;">.ssssssssdMMMNhsssssssssshNMMMdssssssss.   </span> <span style="color: #E95420; font-weight: bold;">FW:</span> React, Node.js, Next.js, Laravel, Flask.
+<span style="color: #E95420; font-weight: bold;">+sssshhhyNMMNyssssssssssssyNMMMysssssss+   </span> <span style="color: #E95420; font-weight: bold;">DB:</span> Mysql, SQLite, MongoDB
+<span style="color: #E95420; font-weight: bold;">ossyNMMMNyMMhsssssssssssssshmmmhssssssso   </span> <span style="color: #E95420; font-weight: bold;">Mail:</span> <a href="mailto:jaisuriya200297@gmail.com">jaisuriya200297@gmail.com</a>
+<span style="color: #E95420; font-weight: bold;">ossyNMMMNyMMhsssssssssssssshmmmhssssssso   </span> <span style="color: #E95420; font-weight: bold;">Socials:</span> <a href="https://linkedin.com/in/jaisuriya-p-k-7156a2236/">LinkedIn</a> | <a href="https://www.instagram.com/jai_.suriya/">Instagram</a>
+<span style="color: #E95420; font-weight: bold;">+sssshhhyNMMNyssssssssssssyNMMMysssssss+   </span> <span style="color: #E95420; font-weight: bold;">Resume:</span> <a href="https://github.com/jaisuriya97/jaisuriya97/files/14325358/Jaisuriya.pdf">Jaisuriya.pdf</a>
+<span style="color: #E95420; font-weight: bold;">.ssssssssdMMMNhsssssssssshNMMMdssssssss.   </span> -------------------------
+<span style="color: #E95420; font-weight: bold;"> /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    </span>
+<span style="color: #E95420; font-weight: bold;">  +sssssssssdmydMMMMMMMNddddyssssssss+     </span> 
+<span style="color: #E95420; font-weight: bold;">   /ssssssssssshdmmNNmmyNMMMMhssssss/      </span> 
+<span style="color: #E95420; font-weight: bold;">    .ossssssssssssssssssdMMMNysssso.       </span> 
+<span style="color: #E95420; font-weight: bold;">      -+sssssssssssssssssyyyssss+-         </span> 
+<span style="color: #E95420; font-weight: bold;">        `:+ssssssssssssssssss+:`           </span> 
+<span style="color: #E95420; font-weight: bold;">            .-/+oossssoo+/-.               </span> 
+</pre>
