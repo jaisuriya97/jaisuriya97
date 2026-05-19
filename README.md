@@ -13,7 +13,7 @@
 <span style="color: #E95420; font-weight: bold;">+sssshhhyNMMNyssssssssssssyNMMMysssssss+   </span> <span style="color: #E95420; font-weight: bold;">Resume:</span> <a href="https://github.com/jaisuriya97/jaisuriya97/files/14325358/Jaisuriya.pdf">Jaisuriya.pdf</a>
 <span style="color: #E95420; font-weight: bold;">.ssssssssdMMMNhsssssssssshNMMMdssssssss.   </span> -------------------------
 <span style="color: #E95420; font-weight: bold;"> /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    </span>
-<span style="color: #E95420; font-weight: bold;">  +sssssssssdmydMMMMMMMNddddyssssssss+     </span> 
+<span style="color: #E95420; font-weight: bold;">  +sssssssssdmydMMMMMMMNddddyssssssss+     </span> <span style="color: #E95420;">███</span> <span style="color: #333333;">███</span> <span style="color: #F6C342;">███</span> <span style="color: #4EA94B;">███</span> <span style="color: #1572B6;">███</span> <span style="color: #5C2D91;">███</span> <span style="color: #ED8B00;">███</span> <span style="color: #E34F26;">███</span>
 <span style="color: #E95420; font-weight: bold;">   /ssssssssssshdmmNNmmyNMMMMhssssss/      </span> 
 <span style="color: #E95420; font-weight: bold;">    .ossssssssssssssssssdMMMNysssso.       </span> 
 <span style="color: #E95420; font-weight: bold;">      -+sssssssssssssssssyyyssss+-         </span> 
